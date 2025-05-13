@@ -1,6 +1,6 @@
 # Top 1000 IMDb Movies 
 
-### Project Link : https://app.pn CHANGE GHIs 
+### Project Link : currently work in progress
 
 ## Problem Statement
 
