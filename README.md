@@ -54,7 +54,7 @@ Slicers for Genre, Certificate, and Year.
 ![Image](https://github.com/user-attachments/assets/9f7b6310-3f87-405f-bb13-43127b48798f)
 
  
- # RScreenshot KPIs
+ # Screenshot KPIs
 
 ![Image](https://github.com/user-attachments/assets/78e43928-5861-466f-9f1d-e1dc8c93a919)
 
