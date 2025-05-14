@@ -51,13 +51,12 @@ Slicers for Genre, Certificate, and Year.
 
 # Screenshot of Dashboard 
 
-image 1 to be added
+![Image](https://github.com/user-attachments/assets/9f7b6310-3f87-405f-bb13-43127b48798f)
 
  
  # RScreenshot KPIs
 
- 
-image 2 to be added 
+![Image](https://github.com/user-attachments/assets/78e43928-5861-466f-9f1d-e1dc8c93a919)
 
 # Insights
 
