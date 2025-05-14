@@ -1,6 +1,6 @@
 # Top 1000 IMDb Movies 
 
-### Project Link : top 1000 movies pbix file.pbix
+### Project Link : [top 1000 movies pbix file.pbix](https://github.com/ShubhamKumar0141/Project-1-/blob/main/top%201000%20movies%20pbix%20file.pbix)
 
 ## Problem Statement
 
