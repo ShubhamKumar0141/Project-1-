@@ -1,6 +1,6 @@
 # Top 1000 IMDb Movies 
 
-### Project Link : currently work in progress
+### Project Link : top 1000 movies pbix file.pbix
 
 ## Problem Statement
 
